@@ -15,5 +15,5 @@ library(gglassomod)
 
 
 ### 3. Example of MFG-LASSO and MFG-Elastic Net
-- Download all the R and RCpp files.
+- Download all the R and Cpp files.
 - A simulation example is shown in the ``simul.R`` file.
