@@ -1,4 +1,5 @@
-GMD algorithms to compute multivariate functional gropu elastic net
+GMD algorithms to compute multivariate functional gropu elastic net  
+Ali Mazharnia & Jun Song, UNC Charlotte
 
 ### 1. Install the package from GitHub 
 This package is a (heavily) modified version of ``gglasso``
@@ -12,4 +13,7 @@ install.packages("https://github.com/CodeJSong/Multivariate-Functional-Sparse-Mo
 library(gglassomod)
 ```
 
-- Ali Mazharnia & Jun Song, UNC Charlotte
+
+### Example
+- Download all the R and RCpp files.
+- A simulation example is shown in the ``simul.R`` file.
