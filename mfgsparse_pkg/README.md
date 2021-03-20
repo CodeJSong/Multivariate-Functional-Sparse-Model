@@ -1,4 +1,4 @@
-GMD algorithms to compute multivariate functional gropu elastic net  
+GMD algorithms to compute multivariate functional group elastic net  
 Ali Mazharnia & Jun Song, UNC Charlotte
 
 ### 1. Install the package from GitHub 
